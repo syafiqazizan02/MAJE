@@ -12,6 +12,7 @@ Signification for this project which are:
 # Technology are being used
 1) Jquery
 2) PHP
+2) HTML, CSS
 3) PayPal API
 
 # API’s are being used
