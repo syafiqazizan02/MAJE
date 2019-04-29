@@ -12,8 +12,9 @@ Signification for this project which are:
 # Technology are being used
 1) Jquery
 2) PHP
-2) HTML, CSS
-3) PayPal API
+3) HTML, CSS
+4) PayPal API
+5) MySQL
 
 # API’s are being used
 PayPal Sandbox is a self-contained, virtual testing environment that mimics the live PayPal production environment. It provides a shielded space where you can initiate and watch your application process the requests you make to the PayPal APIs without touching any live PayPal accounts.
